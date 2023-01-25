@@ -24,7 +24,8 @@ step 6-> Ready to go run flutter project using "flutter run" or "run button in I
 
 Note:
 
-Did not implement Facebook auth as it requires certificate and need facebook developer account separately.
+=> Did not implement Facebook auth as it requires certificate and need facebook developer account separately.
+=> login and signup field are disabled because you have asked for login signup screen with auth using social media.
 
 4.Github profile
 rajatvirat999@gmail.com
